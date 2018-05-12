@@ -1,0 +1,26 @@
+_repo: Chang-Yan-Dao_24170
+_version: 0.1.0
+alternative_title: Chang Yan Dao
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Luopodaoren
+    alias: 落魄道人
+    gutenberg_agent_id: '26289'
+    url: http://www.gutenberg.org/2009/agents/26289
+description: ''
+gutenberg_issued: '2008-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24170'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese literature'
+title: 常言道
+url: http://www.gutenberg.org/ebooks/24170
